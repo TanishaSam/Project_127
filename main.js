@@ -6,7 +6,7 @@ right_wrist_y=0;
 
 function preload()
 {
-    sound= loadSound(); // I'll add this later
+    sound= loadSound("music.mp3"); // I'll add this later
 }
 
 function setup()
